@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "372525117502",
+    "project_id": "fluttermet-c92a1",
+    "storage_bucket": "fluttermet-c92a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372525117502:android:ee10be6fd9f9c35e86e16f",
+        "android_client_info": {
+          "package_name": "com.example.dummyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372525117502-nt6c8ae8euqnvcssqf8sq94a1oavdsg2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhVVrP68_BzaRF2VtiTGtxpuD4Wj07FSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372525117502-nt6c8ae8euqnvcssqf8sq94a1oavdsg2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "372525117502-q6q3js8oedov1kv28ejnjiqq1khbh7tr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.fluttermet"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372525117502:android:ac812db6f02684a686e16f",
+        "android_client_info": {
+          "package_name": "com.flutterflow.fluttermet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372525117502-nt6c8ae8euqnvcssqf8sq94a1oavdsg2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhVVrP68_BzaRF2VtiTGtxpuD4Wj07FSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372525117502-nt6c8ae8euqnvcssqf8sq94a1oavdsg2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "372525117502-q6q3js8oedov1kv28ejnjiqq1khbh7tr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.fluttermet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
